@@ -50,3 +50,7 @@ Thumbs.db
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+
+# Optic Local Files
+.optic/captures
+.optic-daemon.log
